@@ -1,0 +1,15 @@
+= Christoph Jaeger
+
+****
+Currently looking for an entry-level position in Linux kernel development in the U.S. footnote:[Eligible to live and work in the U.S. without any restrictions (permanent resident).]
+****
+
+== [[contact]] Contact
+
+* http://github.com/christophjaeger[GitHub], http://www.linkedin.com/in/christophjaeger[LinkedIn]
+* via e-mail: email@christophjaeger.info; feel free to grab my https://dl.dropboxusercontent.com/u/605668/christophjaeger.github.com/0xE1005721.asc[PGP key]:
++ 
+----
+pub   3072R/E1005721 2011-05-01
+      Key fingerprint = 7F96 ADAF 81D1 68FF FF80  763B C6F2 9B36 E100 5721
+----
