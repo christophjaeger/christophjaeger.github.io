@@ -1,0 +1,68 @@
+= Reading List
+
+[abstract]
+I started this list in 2014--while reading <<ap09,Apprenticeship Patterns>> footnote:[Dave H. Hoover and Adewale Oshineye,
+"[underline]#Construct Your Curriculum#," in 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.'
+O'Reilly, 2009, ch. 6, pp. 100&ndash;102.] by Dave H. Hoover and Adewale Oshineye--to keep track of the ever-growing bunch
+of (tech) books I plan to read and those I've read. If you have any suggestions for future readings that might fit in here,
+link:index.html#contact[let me know].
+
+== To Read
+
+* Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
+  [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
+* John R. Levine, 'Linkers and Loaders.' Morgan Kaufmann, 1999.
+* Rami Rosen, 'Linux Kernel Networking: Implementation and Theory.' Apress, 2014.
+* Curt Schimmel, 'UNIX Systems for Modern Architectures: Symmetric Multiprocessing and Caching for Kernel Programmers.' Addison-Wesley, 1994.
+* David R. Hanson, 'C Interfaces and Implementations: Techniques for Creating Reusable Software.' Addison-Wesley, 1997.
+* K. N. King, 'C Programming: A Modern Approach,' 2nd ed. Norton, 2008.
+* Alan R. Feuer, 'The C Puzzle Book.' Addison-Wesley, 1999.
+* Ben Klemens, '21st Century C.' O'Reilly, 2013.
+* Robert Mecklenburg, 'Managing Projects with GNU Make,' 3rd ed. O'Reilly, 2005.
+  [http://oreilly.com/catalog/make3/book/index.csp[free online version]]
+* Jon Bentley, 'Programming Pearls,' 2nd ed. Addison-Wesley, 2000.
+* Graham Hutton, 'Programming in Haskell'. Cambridge UP, 2007.
+* Andrew S. Tanenbaum, 'Modern Operating Systems,' 3rd ed. Pearson, 2013.
+* Terence Parr, 'The Definitive ANTLR 4 Reference.' Pragmatic, 2012.
+* John R. Levine, 'flex & bison'. O'Reilly, 2009.
+* Keith D. Cooper and Linda Torczon, 'Engineering a Compiler,' 2nd ed. Morgan Kaufmann, 2011.
+* Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno, 'Cryptography Engineering: Design Principles and Practical Applications.' Wiley, 2010.
+* John Calcote, 'Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool.' No Starch, 2010.
+* Gayle Laakmann McDowell, 'Cracking the Coding Interview,' 5th ed. CareerCup, 2013.
+* Paul Graham, 'Hackers & Painters: Big Ideas from the Computer Age.' O'Reilly, 2004.
+* Richard Hall Thayer and Merlin Dorfman, 'Software Engineering Essentials, Volume I: The Development Process,' 4th ed. Software Management Training, 2013.
+* Richard Hall Thayer and Merlin Dorfman, 'Software Engineering Essentials, Volume II: The Supporting Processes,' 4th ed. Software Management Training, 2013.
+* Richard Hall Thayer and Merlin Dorfman, 'Software Engineering Essentials, Volume III: The Engineering Fundamentals,' 4th ed. Software Management Training, 2013.
+* 'Guide to the Software Engineering Body of Knowledge (SWEBOK),' V3.0, Pierre Bourque and Richard E. Fairley, Eds. IEEE Computer Society, 2014.
+* Karl Fogel, 'Producing Open Source Software: How to Run a Successful Free Software Project,' 2nd ed. O'Reilly, NYR.
+* Jessica McKellar, Alessandro Rubini, Jonathan Corbet, and Greg Kroah-Hartman, 'Linux Device Drivers: Where the Kernel Meets the Hardware,' 4th ed. O'Reilly, NYR.
+* Neal Ford, 'Functional Thinking: Paradigm Over Syntax.' O'Reilly, NYR.
+
+== Currently Reading
+
+* Eric S. Raymond, 'The Cathedral and the Bazaar: Musings On Linux and Open Source by an Accidental Revolutionary,' revised ed. O'Reilly, 2001.
+* Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
+  [http://ofps.oreilly.com/titles/9780596518387[free online version]] [[ap09]]
+* Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, 'Operating Systems: Three Easy Pieces,' V0.80. Arpaci-Dusseau, 2014.
+  [http://www.ostep.org[available online]]
+* Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
+
+== Read
+
+.2014
+* Paul Göransson and Chuck Black, 'Software Defined Networks: A Comprehensive Approach.' Morgan Kaufmann, 2014.
+* Siamak Azodolmolky, 'Software Defined Networking with OpenFlow.' Packt, 2013.
+* Vernon L. Ceder, 'The Quick Python Book,' 2nd ed. Manning, 2010.
+* Chad Fowler, 'The Passionate Programmer: Creating a Remarkable Career in Software Development,' P6.0. Pragmatic, 2009.
+* Brian W. Fitzpatrick and Ben Collins-Sussman, 'Team Geek: A Software Developer's Guide to Working Well with Others.' O'Reilly, 2012.
+* Sreekrishnan Venkateswaran, 'Essential Linux Device Drivers.' Prentice Hall, 2008.
+* Jon Loeliger and Matthew McCullough, 'Version Control with Git,' 2nd ed. O'Reilly, 2012.
+* Peter van der Linden, 'Expert C Programming: Deep C Secrets.' Prentice Hall, 1994.
+* Brian W. Kernighan and Dennis M. Ritchie, 'The C Programming Language,' 2nd ed. Prentice Hall, 1988.
+* Gayle Laakmann McDowell, 'The Google Résumé: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, or Any Top Tech Company.' Wiley, 2011.
+* Robert Love, 'Linux Kernel Development,' 3rd ed. Addison-Wesley, 2010.
+
+.2013 and before (incomplete)
+* Richard Reese, 'Understanding and Using C Pointers.' O'Reilly, 2013.
+* Terence Parr, 'Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages.' Pragmatic, 2009.
+* Terence Parr, 'The Definitive ANTLR Reference: Building Domain-Specific Languages,' P2.0. Pragmatic, 2007.
