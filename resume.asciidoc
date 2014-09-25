@@ -1,0 +1,88 @@
+= Résumé
+
+:frame: none
+:grid: none
+
+[cols="<verse,>verse"]
+|==============================
+|Christoph Jaeger
+Somerville, MA 02145 |
++1 (857) 364-1346
+email@christophjaeger.info
+|==============================
+
+== Work Experience
+
+[cols="<3verse,>verse"]
+|==============================
+|'Independent Contractor'
+(self-employed) |
+02/2013--09/2014
+Leipzig, Germany
+|'Intern, Student Assistant' (IT Service Unit)
+Max Planck Institute for Human Cognitive and Brain Sciences |
+03/2010--02/2011
+Leipzig, Germany
+|==============================
+
+== Certifications
+
+[cols="<3verse,>verse"]
+|==============================
+|'LPIC-2' (Advanced Level Linux Certification) footnoteref:[lpic,Certification active until 2018-07-18. License: LPI000279867]
+Linux Professional Institute | 07/2013
+|'LPIC-1' (Junior Level Linux Certification) footnoteref:[lpic]
+Linux Professional Institute | 05/2013
+|'Berufs- und arbeitspaedagogische Eignung gemaess § 3 Abs. 2 AEVO (1999)' footnote:[Trainer aptitude in accordance with the Regulation on Trainer Aptitude (AEVO).]
+Erfurt Chamber of Crafts | 07/2007
+|==============================
+
+== Education
+
+[cols="<3verse,>verse"]
+|==============================
+|'Master of Science,' Computer Science (attended; discontinued due to emigration)
+Leipzig University of Applied Sciences (HTWK) |
+10/2010--09/2014
+Leipzig, Germany
+|'Bachelor of Science,' Computer Science; Grade: 1.5 (A)
+Leipzig University of Applied Sciences (HTWK) |
+10/2007--11/2010
+Leipzig, Germany
+|'Staatlich gepruefter Techniker,' Electrical and Electronics Engineering; Grade: 1.2 (A+)
+Fachschule fuer Technik |
+08/2005--07/2007
+Muehlhausen, Germany
+|==============================
+
+== Related Coursework
+
+[cols="<3verse,>verse"]
+|==============================
+|'Advanced Operating Systems' (MS CS 6210)
+Georgia Institute of Technology |
+since 08/2014
+Atlanta, GA
+|'Computer Networks' (MS CS 6250)
+Georgia Institute of Technology |
+since 08/2014
+Atlanta, GA
+|'Software Defined Networking' footnote:[MOOC offered through http://www.coursera.org[Coursera].]
+Georgia Institute of Technology |
+05/2014--07/2014
+Atlanta, GA
+|'Parallel Programming Concepts' footnote:[MOOC offered through http://openhpi.de[openHPI].]
+Hasso Plattner Institute for Software Systems Engineering |
+02/2014--04/2014
+Potsdam, Germany
+|==============================
+
+== Professional Affiliations
+
+* Association for Computing Machinery (ACM)
+* IEEE, IEEE CS, IEEE ComSoc
+* The Linux Foundation
+
+== Work Permit
+
+Eligible to live and work in the U.S. without any restrictions.
