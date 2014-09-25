@@ -1,9 +1,9 @@
 = Reading List
 
 [abstract]
-I started this list in 2014--while reading <<ap09,Apprenticeship Patterns>> footnote:[Dave H. Hoover and Adewale Oshineye,
+I started this list in 2014---while reading <<ap09,Apprenticeship Patterns>> footnote:[Dave H. Hoover and Adewale Oshineye,
 "[underline]#Construct Your Curriculum#," in 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.'
-O'Reilly, 2009, ch. 6, pp. 100&ndash;102.] by Dave H. Hoover and Adewale Oshineye--to keep track of the ever-growing bunch
+O'Reilly, 2009, ch. 6, pp. 100--102.] by Dave H. Hoover and Adewale Oshineye---to keep track of the ever-growing bunch
 of (tech) books I plan to read and those I've read. If you have any suggestions for future readings that might fit in here,
 link:index.html#contact[let me know].
 
