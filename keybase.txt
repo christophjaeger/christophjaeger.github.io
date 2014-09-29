@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/christophjaeger
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://christophjaeger.info
+  * I am christophjaeger (https://keybase.io/christophjaeger) on keybase.
+  * I have a public key with fingerprint 7F96 ADAF 81D1 68FF FF80  763B C6F2 9B36 E100 5721
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7f96adaf81d168ffff80763bc6f29b36e1005721",
+            "host": "keybase.io",
+            "key_id": "c6f29b36e1005721",
+            "uid": "6e0aef6e01389249918137cb5e8b6d00",
+            "username": "christophjaeger"
+        },
+        "service": {
+            "hostname": "christophjaeger.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412023090,
+    "expire_in": 157680000,
+    "prev": "3b2ade1f823de6edb03236d3e6b32ed4c389f2875ffaa015715c1e1bb98d03e5",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtUVlME1EUbRFccEONiNGE8FyohMi8GTqdKagfyofggqloTNAyy5v2Cc6UthYQ
+sKISRU2k4h4sJhhjRI0LJuJCwB0MaNwRgokWNGiCUT8kIPrG6J/3473ce88579x3
+K8ePMIQZdxx5/mrQmoGMj5qNomH1vDt8MRA1uQhYi0Eu+nMpWHUgt8uNVS+wAovC
+s4IsKByUIcspJDjKwjKixCo0LzIsghRlttAQJAKn5tEZREYUPGg+1kiNJHYsk+p/
+8Jv/NFhECUghJ2Q4nk7mechBxiKJZsSJrExROtCD3KqwCekyTjf2eDWXc6OAiEtQ
+mghI04clpFvXHfwfOB+riu7H5da8mqTlEYTT63VZdQFvkUtnFCDR/lfLLmJVJt9A
+CD7k9mBNBVZIkJIX6+IwGdIUzVA8lQhQoQu7kR3rCLOF5SgS+jPIRyQZkRZkBBWO
+ZmTEIlmkGJphZQaxIkMjOVkiIys0ZzEriiBQhA/NEkRQFHlOphhkBvp0+aoGrAyx
+KTiIpAc7VMG72Y1AaWSFsTrcYAwzjIwI0zdpiBwT9W+/ta/GDtPcuecRq/fsLOke
+mT6qX+osODJxX8WpzKq69UPXWg79Su3hdib3UTVpZRe7C2L8B9rfWUPNbYGEFR33
+2/wPispWDbyO+bCrJnWxkl/bm22uu9Va3H9vbX5ul+lAaP+kFTd74tJrnSl1D0t6
+ci41duw+abh89WyNLWJyYeFdV+hzdMXH3Pj4vKSjYHr7xuCuyJUIb3g2brCh+ueE
+xqum21/7Wl1vUw2ZcNqNdNDVXd2+/8ShhiszMez0JQUD5fLnU2fGbP+R1uucMfeE
+kV2YK1eaFg18bzufmGk7ONrTghdfWJpRV5/W4aiKDjfhUTUm84ucJf7GhJf3m7Z1
+ptRPwQ0Zs/b6j5UHX3Q/9UXZmmI/lR7uj0tPeT/lOhhfD79NnJMUsg/fexPf9Dh2
+wdb2LD4wKDNU8HRs7/Gy5V1bh+I+9NkCx8OjI7K3xYf80syS2WnUlsZgICdh6pqs
+ZnVoIPtjOfsosqKl8lLJsp9RjvNP8maMM2QPr+n4stZuy+qL2bOu9Tc=
+=ulG/
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/christophjaeger
+
+==================================================================
+
