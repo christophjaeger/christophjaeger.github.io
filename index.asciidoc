@@ -7,7 +7,7 @@ Currently looking for an entry-level position in Linux kernel development in the
 == [[contact]] Contact
 
 * http://github.com/christophjaeger[GitHub], http://www.linkedin.com/in/christophjaeger[LinkedIn]
-* via e-mail: email@christophjaeger.info; feel free to grab my https://dl.dropboxusercontent.com/u/605668/christophjaeger.github.com/0xE1005721.asc[PGP key]:
+* via e-mail: email@christophjaeger.info; feel free to grab my https://keybase.io/christophjaeger/key.asc[PGP key]:
 + 
 ----
 pub   3072R/E1005721 2011-05-01
