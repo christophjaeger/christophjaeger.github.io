@@ -77,6 +77,15 @@ Hasso Plattner Institute for Software Systems Engineering |
 Potsdam, Germany
 |==============================
 
+== Honors & Awards
+
+[cols="<3verse,>verse"]
+|==============================
+|'Linux Training Scholarship,' ``Linux Kernel Guru''
+The Linux Foundation |
+10/2014
+|==============================
+
 == Professional Affiliations
 
 * Association for Computing Machinery (ACM)
