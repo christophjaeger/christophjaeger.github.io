@@ -9,6 +9,7 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
 * Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
   [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
 * John R. Levine, 'Linkers and Loaders.' Morgan Kaufmann, 1999.
