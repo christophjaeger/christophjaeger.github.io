@@ -23,6 +23,7 @@ link:index.html#contact[let me know].
 * Jon Bentley, 'Programming Pearls,' 2nd ed. Addison-Wesley, 2000.
 * Graham Hutton, 'Programming in Haskell'. Cambridge UP, 2007.
 * Andrew S. Tanenbaum, 'Modern Operating Systems,' 3rd ed. Pearson, 2013.
+* William Stallings, 'Operating Systems: Internals and Design Principles,' 8th ed. Prentice Hall, 2014.
 * Terence Parr, 'The Definitive ANTLR 4 Reference.' Pragmatic, 2012.
 * John R. Levine, 'flex & bison'. O'Reilly, 2009.
 * Keith D. Cooper and Linda Torczon, 'Engineering a Compiler,' 2nd ed. Morgan Kaufmann, 2011.
