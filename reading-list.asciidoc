@@ -66,3 +66,5 @@ link:index.html#contact[let me know].
 * Richard Reese, 'Understanding and Using C Pointers.' O'Reilly, 2013.
 * Terence Parr, 'Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages.' Pragmatic, 2009.
 * Terence Parr, 'The Definitive ANTLR Reference: Building Domain-Specific Languages,' P2.0. Pragmatic, 2007.
+
+// vim: spell: spelllang=en_us,de

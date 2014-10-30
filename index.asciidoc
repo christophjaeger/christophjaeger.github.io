@@ -13,3 +13,5 @@ Currently looking for an entry-level position in Linux kernel development in the
 pub   3072R/E1005721 2011-05-01
       Key fingerprint = 7F96 ADAF 81D1 68FF FF80  763B C6F2 9B36 E100 5721
 ----
+
+// vim: spell: spelllang=en_us,de

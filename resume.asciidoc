@@ -95,3 +95,5 @@ The Linux Foundation |
 == Work Permit
 
 Eligible to live and work in the U.S. without any restrictions.
+
+// vim: spell: spelllang=en_us,de
