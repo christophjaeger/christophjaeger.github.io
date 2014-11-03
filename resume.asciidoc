@@ -67,6 +67,10 @@ Atlanta, GA
 Georgia Institute of Technology |
 since 08/2014
 Atlanta, GA
+|'Linux Kernel Internals and Debugging' (LFD320)
+The Linux Foundation |
+11/2014
+San Francisco, CA
 |'Software Defined Networking' footnote:[MOOC offered through http://www.coursera.org[Coursera].]
 Georgia Institute of Technology |
 05/2014--07/2014
