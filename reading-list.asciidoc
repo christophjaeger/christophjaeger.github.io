@@ -9,7 +9,6 @@ link:index.html#contact[let me know].
 
 == To Read
 
-* Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
 * Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
   [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
 * John R. Levine, 'Linkers and Loaders.' Morgan Kaufmann, 1999.
@@ -42,6 +41,7 @@ link:index.html#contact[let me know].
 
 == Currently Reading
 
+* Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
 * Eric S. Raymond, 'The Cathedral and the Bazaar: Musings On Linux and Open Source by an Accidental Revolutionary,' revised ed. O'Reilly, 2001.
 * Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
   [http://ofps.oreilly.com/titles/9780596518387[free online version]] [[ap09]]
