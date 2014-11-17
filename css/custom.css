@@ -33,6 +33,10 @@ table.grid-none td.tableblock {
 	border-style: none;
 }
 
+th.tableblock.valign-baseline, td.tableblock.valign-baseline {
+	vertical-align: baseline;
+}
+
 h3 {
 	float: none;
 	border-bottom-width: 1px;

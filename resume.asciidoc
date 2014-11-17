@@ -2,6 +2,7 @@
 
 :frame: none
 :grid: none
+:valign: baseline
 
 [cols="<verse,>verse"]
 |==============================
