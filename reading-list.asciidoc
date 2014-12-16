@@ -9,6 +9,7 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* David E. Goldberg and Mark Somerville, 'A Whole New Engineer: The Coming Revolution in Engineering Education.' ThreeJoy, 2014.
 * Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
   [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
 * John R. Levine, 'Linkers and Loaders.' Morgan Kaufmann, 1999.
