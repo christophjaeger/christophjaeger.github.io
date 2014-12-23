@@ -9,7 +9,6 @@ link:index.html#contact[let me know].
 
 == To Read
 
-* John Mongan, Eric Giguere, and Noah Kindler, 'Programming Interviews Exposed: Secrets to Landing Your Next Job,' 3rd ed. Wiley, 2013.
 * Harry He, 'Coding Interviews: Questions, Analysis & Solutions.' Apress, 2012.
 * Eric S. Raymond, 'The Cathedral and the Bazaar: Musings On Linux and Open Source by an Accidental Revolutionary,' revised ed. O'Reilly, 2001.
 * David E. Goldberg and Mark Somerville, 'A Whole New Engineer: The Coming Revolution in Engineering Education.' ThreeJoy, 2014.
@@ -45,6 +44,7 @@ link:index.html#contact[let me know].
 
 == Currently Reading
 
+* John Mongan, Eric Giguere, and Noah Kindler, 'Programming Interviews Exposed: Secrets to Landing Your Next Job,' 3rd ed. Wiley, 2013.
 * Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
 * Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
   [http://ofps.oreilly.com/titles/9780596518387[free online version]] [[ap09]]
