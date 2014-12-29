@@ -48,13 +48,13 @@ link:index.html#contact[let me know].
 * Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
 * Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
   [http://ofps.oreilly.com/titles/9780596518387[free online version]] [[ap09]]
-* Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, 'Operating Systems: Three Easy Pieces,' V0.80. Arpaci-Dusseau, 2014.
-  [http://www.ostep.org[available online]]
 * Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
 
 == Read
 
 .2014
+* Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, 'Operating Systems: Three Easy Pieces,' V0.80. Arpaci-Dusseau, 2014.
+  [http://www.ostep.org[available online]]
 * Paul Göransson and Chuck Black, 'Software Defined Networks: A Comprehensive Approach.' Morgan Kaufmann, 2014.
 * Siamak Azodolmolky, 'Software Defined Networking with OpenFlow.' Packt, 2013.
 * Vernon L. Ceder, 'The Quick Python Book,' 2nd ed. Manning, 2010.
