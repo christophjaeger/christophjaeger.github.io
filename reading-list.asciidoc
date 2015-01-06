@@ -45,6 +45,7 @@ link:index.html#contact[let me know].
 
 == Currently Reading
 
+* Robert Love, 'Linux Kernel Development,' 3rd ed. Addison-Wesley, 2010.
 * John Mongan, Eric Giguere, and Noah Kindler, 'Programming Interviews Exposed: Secrets to Landing Your Next Job,' 3rd ed. Wiley, 2013.
 * Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
 * Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
