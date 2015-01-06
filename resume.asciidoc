@@ -62,11 +62,11 @@ Muehlhausen, Germany
 |==============================
 |'Advanced Operating Systems' (MS CS 6210)
 Georgia Institute of Technology |
-since 08/2014
+08/2014--12/2014
 Atlanta, GA
 |'Computer Networks' (MS CS 6250)
 Georgia Institute of Technology |
-since 08/2014
+08/2014--12/2014
 Atlanta, GA
 |'Linux Kernel Internals and Debugging' (LFD320)
 The Linux Foundation |
