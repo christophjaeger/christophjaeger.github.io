@@ -9,6 +9,7 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
 * Uresh Vahalia, 'UNIX Internals: The New Frontiers.' Prentice Hall, 1995.
 * Harry He, 'Coding Interviews: Questions, Analysis & Solutions.' Apress, 2012.
 * Eric S. Raymond, 'The Cathedral and the Bazaar: Musings On Linux and Open Source by an Accidental Revolutionary,' revised ed. O'Reilly, 2001.
@@ -50,7 +51,6 @@ link:index.html#contact[let me know].
 * Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
 * Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
   [http://ofps.oreilly.com/titles/9780596518387[free online version]] [[ap09]]
-* Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
 
 == Read
 
