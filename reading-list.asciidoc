@@ -45,7 +45,6 @@ link:index.html#contact[let me know].
 
 == Currently Reading
 
-* Alan R. Feuer, 'The C Puzzle Book.' Addison-Wesley, 1999.
 * Robert Love, 'Linux Kernel Development,' 3rd ed. Addison-Wesley, 2010.
 * John Mongan, Eric Giguere, and Noah Kindler, 'Programming Interviews Exposed: Secrets to Landing Your Next Job,' 3rd ed. Wiley, 2013.
 * Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
@@ -53,6 +52,9 @@ link:index.html#contact[let me know].
   [http://ofps.oreilly.com/titles/9780596518387[free online version]] [[ap09]]
 
 == Read
+
+.2015
+* Alan R. Feuer, 'The C Puzzle Book.' Addison-Wesley, 1999.
 
 .2014
 * Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau, 'Operating Systems: Three Easy Pieces,' V0.80. Arpaci-Dusseau, 2014.
