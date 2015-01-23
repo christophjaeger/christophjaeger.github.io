@@ -9,6 +9,7 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* Mitchell Hashimoto, 'Vagrant: Up and Running.' O'Reilly, 2013.
 * Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
 * Uresh Vahalia, 'UNIX Internals: The New Frontiers.' Prentice Hall, 1995.
 * Harry He, 'Coding Interviews: Questions, Analysis & Solutions.' Apress, 2012.
