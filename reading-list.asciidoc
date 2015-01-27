@@ -21,7 +21,7 @@ link:index.html#contact[let me know].
 * Curt Schimmel, 'UNIX Systems for Modern Architectures: Symmetric Multiprocessing and Caching for Kernel Programmers.' Addison-Wesley, 1994.
 * David R. Hanson, 'C Interfaces and Implementations: Techniques for Creating Reusable Software.' Addison-Wesley, 1997.
 * K. N. King, 'C Programming: A Modern Approach,' 2nd ed. Norton, 2008.
-* Ben Klemens, '21st Century C.' O'Reilly, 2013.
+* Ben Klemens, '21st Century C,' 2nd ed. O'Reilly, 2014.
 * Robert Mecklenburg, 'Managing Projects with GNU Make,' 3rd ed. O'Reilly, 2005.
   [http://oreilly.com/catalog/make3/book/index.csp[free online version]]
 * Jon Bentley, 'Programming Pearls,' 2nd ed. Addison-Wesley, 2000.
