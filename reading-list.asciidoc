@@ -14,8 +14,6 @@ link:index.html#contact[let me know].
 * Harry He, 'Coding Interviews: Questions, Analysis & Solutions.' Apress, 2012.
 * Eric S. Raymond, 'The Cathedral and the Bazaar: Musings On Linux and Open Source by an Accidental Revolutionary,' revised ed. O'Reilly, 2001.
 * David E. Goldberg and Mark Somerville, 'A Whole New Engineer: The Coming Revolution in Engineering Education.' ThreeJoy, 2014.
-* Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
-  [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
 * John R. Levine, 'Linkers and Loaders.' Morgan Kaufmann, 1999.
 * Rami Rosen, 'Linux Kernel Networking: Implementation and Theory.' Apress, 2014.
 * Curt Schimmel, 'UNIX Systems for Modern Architectures: Symmetric Multiprocessing and Caching for Kernel Programmers.' Addison-Wesley, 1994.
@@ -45,6 +43,8 @@ link:index.html#contact[let me know].
 
 == Currently Reading
 
+* Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
+  [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
 * John Mongan, Eric Giguere, and Noah Kindler, 'Programming Interviews Exposed: Secrets to Landing Your Next Job,' 3rd ed. Wiley, 2013.
 * Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
   [http://chimera.labs.oreilly.com/books/1234000001813[free online version]] [[ap09]]
