@@ -9,7 +9,6 @@ link:index.html#contact[let me know].
 
 == To Read
 
-* Luiz A. Barroso, Jimmy Clidaras, and Urs Hölzle, 'The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines,' 2nd ed. Morgan & Claypool, 2013.
 * Drew Neil, 'Practical Vim: Edit Text at the Speed of Thought.' Pragmatic, 2012.
 * Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
 * Uresh Vahalia, 'UNIX Internals: The New Frontiers.' Prentice Hall, 1995.
@@ -43,6 +42,7 @@ link:index.html#contact[let me know].
 
 == Currently Reading
 
+* Luiz A. Barroso, Jimmy Clidaras, and Urs Hölzle, 'The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines,' 2nd ed. Morgan & Claypool, 2013.
 * John Calcote, 'Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool.' No Starch, 2010.
 * Gayle Laakmann McDowell, 'Cracking the Coding Interview,' 5th ed. CareerCup, 2013.
 * Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
