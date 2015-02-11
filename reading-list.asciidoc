@@ -31,6 +31,7 @@ link:index.html#contact[let me know].
 * John R. Levine, 'flex & bison'. O'Reilly, 2009.
 * Keith D. Cooper and Linda Torczon, 'Engineering a Compiler,' 2nd ed. Morgan Kaufmann, 2011.
 * Niels Ferguson, Bruce Schneier, and Tadayoshi Kohno, 'Cryptography Engineering: Design Principles and Practical Applications.' Wiley, 2010.
+* Gayle Laakmann McDowell, 'Cracking the Coding Interview,' 5th ed. CareerCup, 2013.
 * Paul Graham, 'Hackers & Painters: Big Ideas from the Computer Age.' O'Reilly, 2004.
 * Richard Hall Thayer and Merlin Dorfman, 'Software Engineering Essentials, Volume I: The Development Process,' 4th ed. Software Management Training, 2013.
 * Richard Hall Thayer and Merlin Dorfman, 'Software Engineering Essentials, Volume II: The Supporting Processes,' 4th ed. Software Management Training, 2013.
@@ -44,7 +45,6 @@ link:index.html#contact[let me know].
 
 * Luiz A. Barroso, Jimmy Clidaras, and Urs Hölzle, 'The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines,' 2nd ed. Morgan & Claypool, 2013.
 * John Calcote, 'Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool.' No Starch, 2010.
-* Gayle Laakmann McDowell, 'Cracking the Coding Interview,' 5th ed. CareerCup, 2013.
 * Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
   [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
 * John Mongan, Eric Giguere, and Noah Kindler, 'Programming Interviews Exposed: Secrets to Landing Your Next Job,' 3rd ed. Wiley, 2013.
