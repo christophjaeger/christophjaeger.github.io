@@ -9,6 +9,7 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* Debra Cameron, James Elliott, Marc Loy, Eric Raymond, and Bill Rosenblatt, 'Learning GNU Emacs,' 3rd ed. O'Reilly, 2004.
 * Drew Neil, 'Practical Vim: Edit Text at the Speed of Thought.' Pragmatic, 2012.
 * Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
 * Uresh Vahalia, 'UNIX Internals: The New Frontiers.' Prentice Hall, 1995.
