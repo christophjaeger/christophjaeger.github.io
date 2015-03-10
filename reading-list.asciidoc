@@ -9,7 +9,6 @@ link:index.html#contact[let me know].
 
 == To Read
 
-* Michael Jang, 'RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300),' 6th ed. McGraw-Hill, 2011.
 * Debra Cameron, James Elliott, Marc Loy, Eric Raymond, and Bill Rosenblatt, 'Learning GNU Emacs,' 3rd ed. O'Reilly, 2004.
 * Drew Neil, 'Practical Vim: Edit Text at the Speed of Thought.' Pragmatic, 2012.
 * Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
@@ -45,6 +44,7 @@ link:index.html#contact[let me know].
 
 == Currently Reading
 
+* Michael Jang, 'RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300),' 6th ed. McGraw-Hill, 2011.
 * Luiz A. Barroso, Jimmy Clidaras, and Urs Hölzle, 'The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines,' 2nd ed. Morgan & Claypool, 2013.
 * John Calcote, 'Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool.' No Starch, 2010.
 * Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
