@@ -41,6 +41,7 @@ link:index.html#contact[let me know].
 * Karl Fogel, 'Producing Open Source Software: How to Run a Successful Free Software Project,' 2nd ed. O'Reilly, NYR.
 * Jessica McKellar, Alessandro Rubini, Jonathan Corbet, and Greg Kroah-Hartman, 'Linux Device Drivers: Where the Kernel Meets the Hardware,' 4th ed. O'Reilly, NYR.
 * Neal Ford, 'Functional Thinking: Paradigm Over Syntax.' O'Reilly, NYR.
+* John Graham-Cumming, 'The GNU Make Book.' No Starch, NYR.
 
 == Currently Reading
 
