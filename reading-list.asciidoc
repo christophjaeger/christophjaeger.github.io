@@ -46,7 +46,6 @@ link:index.html#contact[let me know].
 == Currently Reading
 
 * Michael Jang, 'RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300),' 6th ed. McGraw-Hill, 2011.
-* Luiz A. Barroso, Jimmy Clidaras, and Urs Hölzle, 'The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines,' 2nd ed. Morgan & Claypool, 2013.
 * John Calcote, 'Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool.' No Starch, 2010.
 * Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
   [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
@@ -57,6 +56,7 @@ link:index.html#contact[let me know].
 == Read
 
 .2015
+* Luiz A. Barroso, Jimmy Clidaras, and Urs Hölzle, 'The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines,' 2nd ed. Morgan & Claypool, 2013.
 * Gayle Laakmann McDowell, 'Cracking the Tech Career: Insider Advice On Landing a Job at Google, Microsoft, Apple, or Any Top Tech Company.' Wiley, 2014.
 * Robert Love, 'Linux Kernel Development,' 3rd ed. Addison-Wesley, 2010.
 * Mitchell Hashimoto, 'Vagrant: Up and Running.' O'Reilly, 2013.
