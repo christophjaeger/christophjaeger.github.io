@@ -32,14 +32,12 @@ Leipzig, Germany
 
 == Certifications
 
-[cols="<3verse,>verse"]
+[cols="<3,>"]
 |==============================
-|'LPIC-2' (Advanced Level Linux Certification) footnoteref:[lpic,Certification active until 2018-07-18. License: LPI000279867]
-Linux Professional Institute | 07/2013
-|'LPIC-1' (Junior Level Linux Certification) footnoteref:[lpic]
-Linux Professional Institute | 05/2013
-|'Berufs- und arbeitspaedagogische Eignung gemaess § 3 Abs. 2 AEVO (1999)' footnote:[Trainer aptitude in accordance with the Regulation on Trainer Aptitude (AEVO).]
-Erfurt Chamber of Crafts | 07/2007
+|'LPIC-2' (Advanced Level Linux Certification) --- Linux Professional Institute | 07/2013
+|'LPIC-1' (Junior Level Linux Certification) --- Linux Professional Institute | 05/2013
+|'Berufs- und arbeitspaedagogische Eignung gemaess § 3 Abs. 2 AEVO (1999)'
+footnote:[Trainer aptitude in accordance with the Regulation on Trainer Aptitude (AEVO).] --- Erfurt Chamber of Crafts | 07/2007
 |==============================
 
 == Education
