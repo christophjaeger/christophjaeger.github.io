@@ -91,11 +91,9 @@ Potsdam, Germany
 
 == Honors & Awards
 
-[cols="<3verse,>verse"]
+[cols="<3,>"]
 |==============================
-|'Linux Training Scholarship,' ``Linux Kernel Guru''
-The Linux Foundation |
-10/2014
+|'Linux Training Scholarship,' ``Linux Kernel Guru'' --- The Linux Foundation | 10/2014
 |==============================
 
 == Professional Affiliations
