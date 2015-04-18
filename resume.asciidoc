@@ -12,10 +12,6 @@ Malden, MA 02148 |
 email@christophjaeger.info
 |==============================
 
-****
-Currently looking for an entry-level position in Linux kernel development.
-****
-
 == Work Experience
 
 [cols="<3verse,>verse"]
