@@ -1,9 +1,5 @@
 = Christoph Jaeger
 
-****
-Currently looking for an entry-level position in Linux kernel development in the U.S. footnote:[Eligible to live and work in the U.S. without any restrictions (permanent resident).]
-****
-
 == [[contact]] Contact
 
 * http://github.com/christophjaeger[GitHub], http://www.linkedin.com/in/christophjaeger[LinkedIn]
