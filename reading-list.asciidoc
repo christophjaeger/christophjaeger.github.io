@@ -9,6 +9,13 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* Michael Jang, 'RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300),' 6th ed. McGraw-Hill, 2011.
+* John Calcote, 'Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool.' No Starch, 2010.
+* Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
+  [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
+* John Mongan, Eric Giguere, and Noah Kindler, 'Programming Interviews Exposed: Secrets to Landing Your Next Job,' 3rd ed. Wiley, 2013.
+* Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
+  [http://chimera.labs.oreilly.com/books/1234000001813[free online version]] [[ap09]]
 * Debra Cameron, James Elliott, Marc Loy, Eric Raymond, and Bill Rosenblatt, 'Learning GNU Emacs,' 3rd ed. O'Reilly, 2004.
 * Drew Neil, 'Practical Vim: Edit Text at the Speed of Thought.' Pragmatic, 2012.
 * Radia Perlman, 'Interconnections: Bridges, Routers, Switches, and Internetworking Protocols,' 2nd ed. Addison-Wesley, 1999.
@@ -42,16 +49,6 @@ link:index.html#contact[let me know].
 * Jessica McKellar, Alessandro Rubini, Jonathan Corbet, and Greg Kroah-Hartman, 'Linux Device Drivers: Where the Kernel Meets the Hardware,' 4th ed. O'Reilly, NYR.
 * Neal Ford, 'Functional Thinking: Paradigm Over Syntax.' O'Reilly, NYR.
 * John Graham-Cumming, 'The GNU Make Book.' No Starch, NYR.
-
-== Currently Reading
-
-* Michael Jang, 'RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300),' 6th ed. McGraw-Hill, 2011.
-* John Calcote, 'Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool.' No Starch, 2010.
-* Dominic Giampaolo, 'Practical File System Design with the Be File System.' Morgan Kaufmann, 1999.
-  [http://www.nobius.org/~dbg/practical-file-system-design.pdf[available online]]
-* John Mongan, Eric Giguere, and Noah Kindler, 'Programming Interviews Exposed: Secrets to Landing Your Next Job,' 3rd ed. Wiley, 2013.
-* Dave H. Hoover and Adewale Oshineye, 'Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman.' O'Reilly, 2009.
-  [http://chimera.labs.oreilly.com/books/1234000001813[free online version]] [[ap09]]
 
 == Read
 
