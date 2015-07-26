@@ -9,6 +9,7 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* Brendan Gregg, 'Systems Performance: Enterprise and the Cloud.' Prentice Hall, 2014.
 * Karl Matthias and Sean P. Kane, 'Docker: Up and Running.' O'Reilly, 2015.
 * Gary A. Donahue, 'Network Warrior,' 2nd ed. O'Reilly, 2011.
 * Thomas A. Limoncelli, Strata R. Chalup, and Christina J. Hogan, 'The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems.' Addison-Wesley, 2015.
