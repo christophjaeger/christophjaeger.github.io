@@ -9,6 +9,7 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* Gary A. Donahue, 'Network Warrior,' 2nd ed. O'Reilly, 2011.
 * Thomas A. Limoncelli, Strata R. Chalup, and Christina J. Hogan, 'The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems.' Addison-Wesley, 2015.
 * Thomas A. Limoncelli, 'Time Management for System Administrators.' O'Reilly, 2005.
 * John Z. Sonmez, 'Soft Skills: The Software Developer's Life Manual.' Manning, 2015.
