@@ -9,6 +9,7 @@ link:index.html#contact[let me know].
 
 == To Read
 
+* Thomas A. Limoncelli, 'Time Management for System Administrators.' O'Reilly, 2005.
 * John Z. Sonmez, 'Soft Skills: The Software Developer's Life Manual.' Manning, 2015.
 * Michael Jang, 'RHCSA/RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300),' 6th ed. McGraw-Hill, 2011.
 * John Calcote, 'Autotools: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool.' No Starch, 2010.
