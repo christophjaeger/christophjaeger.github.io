@@ -17,8 +17,12 @@ email@christophjaeger.info
 [cols="<3verse,>verse"]
 |==============================
 |'Linux Systems Administrator'
-Intronis, Inc. |
-since 04/2015
+Barracuda Networks, Inc. |
+since 10/2015
+Chelmsford, MA
+|'Linux Systems Administrator'
+Intronis, Inc. (acquired by Barracuda Networks) |
+04/2015--10/2015
 Chelmsford, MA
 |'Independent Contractor'
 (self-employed) |
