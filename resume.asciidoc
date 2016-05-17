@@ -71,10 +71,6 @@ Muehlhausen, Germany
 
 [cols="<3verse,>verse"]
 |==============================
-|'Cloud Computing Concepts' footnoteref:[coursera, MOOC offered through http://www.coursera.org[Coursera].]
-University of Illinois at Urbana-Champaign |
-since 02/2015
-Champaign, IL
 |'Advanced Operating Systems' (MS CS 6210)
 Georgia Institute of Technology |
 08/2014--12/2014
@@ -87,14 +83,10 @@ Atlanta, GA
 The Linux Foundation |
 11/2014
 San Francisco, CA
-|'Software Defined Networking' footnoteref:[coursera]
+|'Software Defined Networking' footnoteref:[coursera, MOOC offered through http://www.coursera.org[Coursera].]
 Georgia Institute of Technology |
 05/2014--07/2014
 Atlanta, GA
-|'Parallel Programming Concepts' footnote:[MOOC offered through http://openhpi.de[openHPI].]
-Hasso Plattner Institute for Software Systems Engineering |
-02/2014--04/2014
-Potsdam, Germany
 |==============================
 
 == Honors & Awards
