@@ -16,9 +16,13 @@ email@christophjaeger.info
 
 [cols="<3verse,>verse"]
 |==============================
+|'Storage Operations Manager'
+Barracuda Networks, Inc. |
+since 04/2016
+Chelmsford, MA
 |'Linux Systems Administrator'
 Barracuda Networks, Inc. |
-since 10/2015
+10/2015--04/2016
 Chelmsford, MA
 |'Linux Systems Administrator'
 Intronis, Inc. (acquired by Barracuda Networks) |
