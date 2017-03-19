@@ -75,11 +75,7 @@ Muehlhausen, Germany
 Barracuda Networks |
 03/2017
 Campbell, CA
-|'Advanced Operating Systems' (MS CS 6210)
-Georgia Institute of Technology |
-08/2014--12/2014
-Atlanta, GA
-|'Computer Networks' (MS CS 6250)
+|'Advanced Operating Systems' (MS CS 6210), 'Computer Networks' (MS CS 6250)
 Georgia Institute of Technology |
 08/2014--12/2014
 Atlanta, GA
