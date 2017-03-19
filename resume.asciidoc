@@ -71,6 +71,10 @@ Muehlhausen, Germany
 
 [cols="<3verse,>verse"]
 |==============================
+|'Barracuda NextGen Firewall F Certified Engineer' (BTN300)
+Barracuda Networks |
+03/2017
+Campbell, CA
 |'Advanced Operating Systems' (MS CS 6210)
 Georgia Institute of Technology |
 08/2014--12/2014
