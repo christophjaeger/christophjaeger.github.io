@@ -96,11 +96,6 @@ Atlanta, GA
 |'Linux Training Scholarship,' ``Linux Kernel Guru'' --- The Linux Foundation | 10/2014
 |==============================
 
-== Professional Affiliations
-
-* Association for Computing Machinery (ACM)
-* The Linux Foundation
-
 == Work Permit
 
 Eligible to live and work in the U.S. without any restrictions.
