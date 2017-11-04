@@ -16,7 +16,7 @@ email@christophjaeger.info
 
 [cols="<3verse,>verse"]
 |==============================
-|'Storage Operations Manager'
+|'Manager, Storage Operations'
 Barracuda Networks, Inc. |
 since 04/2016
 Chelmsford, MA
