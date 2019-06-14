@@ -16,9 +16,13 @@ email@christophjaeger.info
 
 [cols="<3verse,>verse"]
 |==============================
+|'Principal Site Reliability Engineer, Cloud Operations'
+Barracuda Networks, Inc. |
+since 06/2019
+Chelmsford, MA
 |'Manager, Storage Operations'
 Barracuda Networks, Inc. |
-since 04/2016
+04/2016--06/2019
 Chelmsford, MA
 |'Linux Systems Administrator'
 Intronis, Inc. (acquired by Barracuda Networks) |
