@@ -38,9 +38,11 @@ Leipzig, Germany
 
 [cols="<3,>"]
 |==============================
-|'LPIC-2: Linux Engineer' --- Linux Professional Institute | 07/2013
+|'LPIC-2: Linux Engineer'
+footnoteref:[lpic-exp, Certification expired as of 07/2018] --- Linux Professional Institute | 07/2013
 |'Novell Certified Linux Administrator, Novell CLA' --- Novell | 06/2013
-|'LPIC-1: Linux Administrator' --- Linux Professional Institute | 05/2013
+|'LPIC-1: Linux Administrator'
+footnoteref:[lpic-exp] --- Linux Professional Institute | 05/2013
 |'Berufs- und arbeitspaedagogische Eignung gemaess § 3 Abs. 2 AEVO (1999)'
 footnote:[Trainer aptitude in accordance with the Regulation on Trainer Aptitude (AEVO).] --- Erfurt Chamber of Crafts | 07/2007
 |==============================
