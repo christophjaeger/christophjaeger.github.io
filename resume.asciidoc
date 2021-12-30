@@ -42,6 +42,7 @@ Leipzig, Germany
 
 [cols="<3,>"]
 |==============================
+|https://www.credly.com/badges/e0014bb2-ba42-4b38-ab38-cec4e2be5471/public_url['AWS Certified Cloud Practitioner'] --- AWS Training and Certification | 12/2021
 |'LPIC-2: Linux Engineer'
 footnoteref:[lpic-exp, Certification expired as of 07/2018] --- Linux Professional Institute | 07/2013
 |'Novell Certified Linux Administrator, Novell CLA' --- Novell | 06/2013
